@@ -12,6 +12,7 @@ public class Main {
             if (i >= 2 && i <= 6) {
                 System.out.println(arr[i]);
             }
+
         }
 
     }
